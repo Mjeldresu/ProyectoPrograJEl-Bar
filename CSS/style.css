@@ -9,7 +9,7 @@
 
 
 .nav {
-    background-color: rgb(58, 119, 46);;
+    background-color:rgb(139, 194, 128);;
     border-radius: 10%;
     text-align: left;
 }
@@ -82,4 +82,19 @@
 
 .card-body {
     text-align-last: center;
+}
+
+.btn-mas {
+    background-color: rgb(139, 194, 128);
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+.btn-menos {
+    background-color: red;
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-top: 2px;
+    padding-bottom: 2px;    
 }
