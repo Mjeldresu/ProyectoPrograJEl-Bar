@@ -36,9 +36,7 @@
     border-radius: 50%;
 }
 
-.row-logo {
-    background-image: url("../IMG/cat-user.gif");
-}  
+
 
 #footer {
     margin-top: 1px;
@@ -51,23 +49,23 @@
 }
 
 .modal-header{
-    background-color: rgb(201, 142, 15);
+    background-color: rgb(238, 184, 68);
 }
 .modal-body {
-    background-color: rgb(58, 119, 46) ;
+    background-color: rgb(139, 194, 128);
 }
 .modal-footer {
-    background-color: rgb(201, 142, 15);
+    background-color: rgb(238, 184, 68);
 }
 
 .modal-header1{
-    background-color: rgb(201, 142, 15);
+    background-color: rgb(238, 184, 68);
 }
 .modal-body1 {
     background-color: rgb(245, 248, 245) ;
 }
 .modal-footer1 {
-    background-color: rgb(201, 142, 15);
+    background-color: rgb(238, 184, 68);
 }
 
 .img-fluid {
